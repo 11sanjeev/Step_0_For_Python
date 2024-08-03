@@ -1,3 +1,4 @@
+"""Demonstration of bitwise operator"""
 #a=22
 #if (a>8) and not(a<20):
 #    print(a)
