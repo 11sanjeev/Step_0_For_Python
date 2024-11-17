@@ -1,3 +1,0 @@
-LOL = means Laugh Out Loud
-NP = means No Problem
-RIP = Rest IN Piece
